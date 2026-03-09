@@ -43,9 +43,13 @@ Stocks used in this analysis are Apple, AMD, Amazon, JPMorgan Chase, Meta Platfo
 
 ## Visualization
 ![Annual Cumulative Return (Growth of $1)](annual_cumulative_return.png)
+
 ![Annual Volatility Comparison](volatility_comparison.png)
+
 ![Risk vs Return (Annual)](risk_vs_return.png)
+
 ![Sharpe Ratio Comparison](sharpe_ratio.png)
+
 ![Stocks Correlation Heatmap](correlation_map.png)
 
 ```python
